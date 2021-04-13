@@ -44,8 +44,7 @@ Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and 
 * A given student scores 100%?
 * A given student scores at least 80%?
 * Two or more students score at least 60%?
-Also:
-* Is it possible for all students to get different scores? Why or why not?
+* Also, is it possible for all students to get different scores? Why or why not?
 
 **14)** A small civil rights non-profit is selecting 3 of its 15 employees to form a task force focused on voting rights.
 * How many such task forces could they possibly select?
@@ -76,7 +75,8 @@ Also:
 * What proportion of in-person Election Day 2020 votes would you expect Biden receives?
 * What proportion of in-person Election Day 2020 votes would you expect Trump receives?
 * What proportion of mail-in votes would you expect Biden receives in the 2020 election?
-* What proportion of mail-in votes would you expect Trump receives in the 2020 election?<br/>
+* What proportion of mail-in votes would you expect Trump receives in the 2020 election?
+
 [SOURCE](https://news.gallup.com/poll/315734/party-preferences-swung-sharply-toward-democrats.aspx)<br/>
 [SOURCE](https://www.wsj.com/articles/biden-supporters-more-likely-than-trumps-to-vote-by-mail-poll-shows-11597683600)
 
