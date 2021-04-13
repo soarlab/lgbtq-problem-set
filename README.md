@@ -1,5 +1,5 @@
 # Identity Affirming Problem Set
-Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and other minority identities
+*Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and other minority identities*
 
 **1)** A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
 * Students are allowed to check exactly 1 box under race and 1 box under gender.
@@ -82,6 +82,132 @@ Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and 
 
 
 # Questions from Experimental Survey
-Questions used to survey discrete mathematics students about their responses to the affirming problem set
+*Questions used to survey discrete mathematics students about their responses to the affirming problem set*
 
-tippity type
+**1)** Did you notice that some of the problems on your most recent homework emphasized inclusiveness regarding gender and sexual orientation?
+* Yes
+* No
+* Unsure
+
+**2)** How did these inclusive problems make you feel?
+* Very Uncomfortable
+* Somewhat Uncomfortable
+* Neutral
+* Somewhat Comfortable
+* Very Comfortable
+
+Consider this problem scenario described in your textbook:<br/>
+*“An organization has 10 male and 7 female members. In how many ways can the organization elect a president, vice president, and secretary if all three officers may not be of the same sex?”*
+
+By comparison, consider this similar problem scenario described in your most recent homework:<br/>
+*“A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?”*
+
+**3)** Which of the above problems do you think is harder to solve?
+* Textbook Version
+* Homework Version
+* Neither
+
+**4)** Which of the above problems do you prefer overall?
+* Textbook Version
+* Homework Version
+* Neither
+
+**5)** Why do you prefer the version you chose? (Enter N/A for neither preference)
+* (OPEN RESPONSE)
+
+**6)** Finish the following statement (Select all that apply): "Compared to our usual problems, I thought the inclusive problems on our most recent homework were..."
+* easier to solve
+* harder to solve
+* more fun to solve
+* less fun to solve
+* more realistic
+* less realistic
+* more representative of my identity/community
+* less representative of my identity/community
+* Other...
+
+**7)** How would you feel about seeing more problems focused on inclusiveness in future homework assignments?
+* Very Negative
+* Somewhat Negative
+* Neutral
+* Somewhat Positive
+* Very Positive
+
+**8)** What is your age?
+* (SHORT ANSWER)
+
+**9)** What is your gender identity? (eg: Woman, Transgender, Genderqueer, etc.)
+* (SHORT ANSWER)
+
+**10)** What is your sexual orientation? (eg: Gay, Straight, Asexual, etc.)
+* (SHORT ANSWER)
+
+**11)** Which aspects of your identity are important to you? (Select all that apply)
+* Age
+* Gender
+* Sexual Orientation
+* Race/Ethnicity
+* Religion/Spirituality
+* Political Affiliation
+* Other...
+
+**12)** How would you say your identity is treated in the School of Computing, with respect to your age?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**13)** How would you say your identity is treated in the School of Computing, with respect to your gender?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**14)** How would you say your identity is treated in the School of Computing, with respect to your sexual orientation?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**15)** How would you say your identity is treated in the School of Computing, with respect to your racial heritage?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**16)** How would you say your identity is treated in the School of Computing, with respect to your religious beliefs?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**17)** How would you say your identity is treated in the School of Computing, with respect to your political affiliation?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This aspect of my identity is unimportant to me
+
+**18)** How would you say your identity is treated in the School of Computing, in general?
+* Very Maligned
+* Somewhat Maligned
+* Neutral
+* Somewhat Affirmed
+* Very Affirmed
+* This issue is unimportant to me
+
+**19)** Any additional feedback for the CS 2100 staff regarding inclusiveness?
+* (OPEN RESPONSE)
+
+*Note that some of the above questions are strictly multiple-choice, whereas others ask respondents to “Select all that apply”.*
