@@ -74,8 +74,9 @@
 **21)** Social_Graph.JPG depicts connections in a blockchain network used to trade NFTs. Nodes represent individual users; an edge between two users means that they are contacts on the network. Thus, any walk along this graph represents a possible sequence of transactions for a hypothetical NFT.
 * Find a sequence of 5 transactions which involves someone selling the NFT before buying it back from the same person they sold it to.
 * Is the walk you found above a trail? Why or why not?
-* Is the walk you found above a cycle? Why or why not?![Social_Graph](https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG)
+* Is the walk you found above a cycle? Why or why not?
 
+![Social_Graph](https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG)
 
 
 # Questions from Experimental Survey
