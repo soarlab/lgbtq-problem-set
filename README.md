@@ -71,15 +71,6 @@
 **20)** Recent census data has concluded that approximately 1.44% of US couples living together are “same-sex”. Of these, about 53.66% are legally married, which accounts for roughly 0.88% of married households in the country. Given a randomly selected US couple living in the same household (of any sexual orientation), what is the approximate likelihood that they are married?<br/>
 [SOURCE](https://www.census.gov/newsroom/press-releases/2019/same-sex-households.html)
 
-**21)** According to a poll published by the Wall Street Journal in August 2020, “47% of voters who back Mr. Biden ... plan to vote by mail rather than in person, compared with 11% of Trump supporters. By contrast, 66% of Trump voters say they plan to cast ballots in person on Election Day ... compared with 26% of Biden supporters.” The same poll also concluded that 30% of all US voters planned to vote by mail and 43% planned to vote in person on Election Day. Also, a Gallup poll published in July 2020 determined that 50% of US adults leaned toward or identified with the Democratic Party while 39% leaned toward or identified with the Republican Party. Working from these statistics and (unrealistically) assuming a 1-1 correspondence between party support and votes for that party’s presidential candidate:
-* What proportion of in-person Election Day 2020 votes would you expect Biden receives?
-* What proportion of in-person Election Day 2020 votes would you expect Trump receives?
-* What proportion of mail-in votes would you expect Biden receives in the 2020 election?
-* What proportion of mail-in votes would you expect Trump receives in the 2020 election?
-
-[SOURCE](https://news.gallup.com/poll/315734/party-preferences-swung-sharply-toward-democrats.aspx)<br/>
-[SOURCE](https://www.wsj.com/articles/biden-supporters-more-likely-than-trumps-to-vote-by-mail-poll-shows-11597683600)
-
 
 # Questions from Experimental Survey
 *Questions used to survey discrete mathematics students about their responses to the affirming problem set*
