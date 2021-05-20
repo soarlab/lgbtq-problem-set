@@ -34,7 +34,7 @@
 
 **10)** A club of 200 students is forming a committee with 10 members. Given that 15% of club members identify as queer, what are the odds that a randomly selected committee reflects this ratio within a 10% margin?
 
-**11)** Suppose 100 highschoolers attend queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
+**11)** Suppose 100 highschoolers attend a queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
 
 **12)** Suppose you attend a drag show in which two of your friends are performing. There are also two other performers scheduled that night, but you don’t know what order they’ll be in and you only have time to stay for half the show. What are the odds that:
 * You’ll see both of your friends perform?
