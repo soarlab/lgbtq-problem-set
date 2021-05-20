@@ -71,6 +71,12 @@
 **20)** Recent census data has concluded that approximately 1.44% of US couples living together are “same-sex”. Of these, about 53.66% are legally married, which accounts for roughly 0.88% of married households in the country. Given a randomly selected US couple living in the same household (of any sexual orientation), what is the approximate likelihood that they are married?<br/>
 [SOURCE](https://www.census.gov/newsroom/press-releases/2019/same-sex-households.html)
 
+**21)** Social_Graph.JPG depicts connections in a blockchain network used to trade NFTs. Nodes represent individual users; an edge between two users means that they are contacts on the network. Thus, any walk along this graph represents a possible sequence of transactions for a hypothetical NFT.
+* Find a sequence of 5 transactions which involves someone selling the NFT before buying it back from the same person they sold it to.
+* Is the walk you found above a trail? Why or why not?
+* Is the walk you found above a cycle? Why or why not?![Social_Graph](https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG)
+
+
 
 # Questions from Experimental Survey
 *Questions used to survey discrete mathematics students about their responses to the affirming problem set*
