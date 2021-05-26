@@ -56,7 +56,7 @@
 * Is the walk you found above a trail? Why or why not?
 * Is the walk you found above a cycle? Why or why not?
 
-![Social_Graph](https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG=100x100)
+<img src="https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG" width="999" height="370">
 
 
 **PROBABILITY THEORY**
