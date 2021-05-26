@@ -44,7 +44,7 @@
 **C.11)** The organizers of a LGBTQ rally are making pride flags. Five people all choose different flag designs from among ten; how many possible combinations of flags might they end up with?
 
 
-**FORMAL PROOF*
+**FORMAL PROOF**
 
 **F.1)** Suppose 100 highschoolers attend a queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
 
