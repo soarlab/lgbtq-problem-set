@@ -58,8 +58,6 @@
 
 <img src="https://user-images.githubusercontent.com/59627709/118964693-02647a80-b925-11eb-8372-1a3f92e44e70.JPG" width="999" height="370">
 
-**G.2)** Draw a picture of your family tree with your primary caretaker's primary caretaker as a root and with their dependents below. What is the height of this tree. Is this a binary tree?
-
 
 **PROBABILITY THEORY**
 
