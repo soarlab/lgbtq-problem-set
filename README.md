@@ -94,6 +94,20 @@
 
 
 
+# Affirming CS/Math History Factoids
+*For potential use in-place-of or alongside Affirming Prolblems*
+
+**1)** George Boole was husband to Mary Everest Boole, a self-taught English mathematician and teacher who lived during the 19th and 20th Centuries. As an advocate for educational methods which were progressive at the time, she used fables and stories to teach algebra. She also invented curve-stitching for similar purposes, which has since evolved into string art.
+
+**2)** The function f(x)=3(x^2)+5 describes a parabola. If you lived in Alexandria during the age of Rome, you might have learned about parabolas and other conic sections from Hypatia's exegesis on Apollonius' \textit{Conics}. Hypatia was a Greek scholar and teacher, as well as the first female mathematician whose life is well-documented.
+
+**3)** The Bernoulli number sequence was the subject of the first published algorithm, written by Ada Lovelace in 1840 to be run on Charles Babbage's Analytical Engine, an early version of the modern computer.
+
+**4)** Turing machines share their namesake with the Turing test, which has inspired science fiction stories from Blade Runner to I, Robot. Both are named after the 'father of artificial intelligence', Alan Turing, whom Queen Elizabeth II posthumously pardoned in 2013 - more than half a century after he was prosecuted for homosexual acts and sentenced to chemical castration by the UK government.
+
+
+
+
 # Questions from Experimental Survey
 *Questions used to survey discrete mathematics students about their responses to the affirming problem set*
 
@@ -224,17 +238,3 @@ By comparison, consider this similar problem scenario described in your most rec
 * (OPEN RESPONSE)
 
 *Note that some of the above questions are strictly multiple-choice, whereas others ask respondents to “Select all that apply”.*
-
-
-
-
-# Affirming CS/Math History Factoids
-*For potential use in-place-of or alongside Affirming Prolblems*
-
-**1)** George Boole was husband to Mary Everest Boole, a self-taught English mathematician and teacher who lived during the 19th and 20th Centuries. As an advocate for educational methods which were progressive at the time, she used fables and stories to teach algebra. She also invented curve-stitching for similar purposes, which has since evolved into string art.
-
-**2)** The function f(x)=3(x^2)+5 describes a parabola. If you lived in Alexandria during the age of Rome, you might have learned about parabolas and other conic sections from Hypatia's exegesis on Apollonius' \textit{Conics}. Hypatia was a Greek scholar and teacher, as well as the first female mathematician whose life is well-documented.
-
-**3)** The Bernoulli number sequence was the subject of the first published algorithm, written by Ada Lovelace in 1840 to be run on Charles Babbage's Analytical Engine, an early version of the modern computer.
-
-**4)** Turing machines share their namesake with the Turing test, which has inspired science fiction stories from Blade Runner to I, Robot. Both are named after the 'father of artificial intelligence', Alan Turing, whom Queen Elizabeth II posthumously pardoned in 2013 - more than half a century after he was prosecuted for homosexual acts and sentenced to chemical castration by the UK government.
