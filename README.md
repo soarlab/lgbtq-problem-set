@@ -1,5 +1,5 @@
 # Identity Affirming Problem Set
-*Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and other minority identities -- Subdivided by Topic Category*
+*Discrete mathematics problems which affirm and make visible LGBTQ and other minority identities -- Subdivided by Topic Category*
 
 **COMBINATOIRCS**
 
