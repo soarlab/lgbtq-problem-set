@@ -1,7 +1,6 @@
 # Identity Affirming Problem Set
 *Discrete mathematics problems which affirm or otherwise make visible LGBTQ+ and other minority identities -- Subdivided by Topic Category*
 
-
 **COMBINATOIRCS**
 
 **C.1)** A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
@@ -39,16 +38,16 @@
 * How many ways are there to arrange five different objects to form a pentagon?
 * Overall, how many possible organizations do the marchers have to choose from?
 
-**C.10)** A group of 12 highschoolers is attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
+**C.10)** A group of 12 highschoolers are attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
 
 **C.11)** The organizers of a LGBTQ rally are making pride flags. Five people all choose different flag designs from among ten; how many possible combinations of flags might they end up with?
 
-
+---------------------
 **FORMAL PROOF**
 
 **F.1)** Suppose 100 highschoolers attend a queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
 
-
+---------------------
 **GRAPH THEORY**
 
 **G.1)** Social_Graph.JPG depicts connections in a blockchain network used to trade NFTs. Nodes represent individual users; an edge between two users means that they are contacts on the network. Thus, any walk along this graph represents a possible sequence of transactions for a hypothetical NFT.
@@ -58,8 +57,7 @@
 
 <img src="https://user-images.githubusercontent.com/59627709/120771925-fe1b8e00-c4dc-11eb-89c3-9578ebbd7c07.jpg" width="999" height="370">![Social Graph](https://user-)
 
-
-
+---------------------
 **PROBABILITY THEORY**
 
 **P.1)** Three people are on a date together and decide to play an ice-breaking game in which they try to guess each other’s favorite seasons. (They write their guesses down all at once so the game isn’t spoiled when the answers are revealed.) What are the odds that:
@@ -91,11 +89,17 @@
 **P.8)** Recent census data has concluded that approximately 1.44% of US couples living together are “same-sex”. Of these, about 53.66% are legally married, which accounts for roughly 0.88% of married households in the country. Given a randomly selected US couple living in the same household (of any sexual orientation), what is the approximate likelihood that they are married?<br/>
 [SOURCE](https://www.census.gov/newsroom/press-releases/2019/same-sex-households.html)
 
+---------------------
+**SET LOGIC**
 
+**S.1)** Imagine you've created an algorithm for automatically writting sappy love letters. Such an algorithm might work, sort of like the game MadLibs, by generating letter templates and replacing blank spaces with words drawn from collections of amorous terminology. For example, consider the template sentence, *S = "My LABEL, you have made me the most ADJECTIVE LABEL in the PLACE."* where *LABEL* is any member of the set *L = {dear, wife, husband, partner}*, *ADJECTIVE* is any member of the set *A = {enamored, overjoyed, fortunate}*, and *PLACE* is any member of the set *P = {world, galaxy, history of spacetime}*.
+* *(a)* How many different possible variations of the given example sentence, *S*, could your algorithm produce?
+* *(b)* How does your answer to part *(a)* change depending on whether we allow repeats?
 
-
+---------------------
+---------------------
 # Affirming CS/Math History Factoids
-*For potential use in-place-of or alongside Affirming Prolblems*
+*For potential use in-place-of or alongside Affirming Problems*
 
 **1)** George Boole was husband to Mary Everest Boole, a self-taught English mathematician and teacher who lived during the 19th and 20th Centuries. As an advocate for educational methods which were progressive at the time, she used fables and stories to teach algebra. She also invented curve-stitching for similar purposes, which has since evolved into string art.
 
@@ -105,9 +109,8 @@
 
 **4)** Turing machines share their namesake with the Turing test, which has inspired science fiction stories from *Blade Runner* to *I, Robot*. Both are named after the 'father of artificial intelligence', Alan Turing, whom Queen Elizabeth II posthumously pardoned in 2013 - more than half a century after he was prosecuted for homosexual acts and sentenced to chemical castration by the UK government.
 
-
-
-
+---------------------
+---------------------
 # Questions from Experimental Survey
 *Questions used to survey discrete mathematics students about their responses to the affirming problem set*
 
