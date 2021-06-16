@@ -113,7 +113,7 @@
 ---------------------
 **SET LOGIC**
 
-**S1**
+**S1** *-pairs with Factoid #6-*
 <br/>Imagine you've created an algorithm for automatically writting sappy love letters. Such an algorithm might work, sort of like the game MadLibs, by generating letter templates and replacing blank spaces with words drawn from collections of amorous terminology. For example, consider the template sentence, *S = "My LABEL, you have made me the most ADJECTIVE LABEL in the PLACE."* where *LABEL* is any member of the set *L = {dear, wife, husband, partner}*, *ADJECTIVE* is any member of the set *A = {enamored, overjoyed, fortunate}*, and *PLACE* is any member of the set *P = {world, galaxy, history of spacetime}*.
 * *(a)* How many different possible variations of the given example sentence, *S*, could your algorithm produce?
 * *(b)* How does your answer to part *(a)* change depending on whether we allow repeats?
@@ -134,6 +134,12 @@
 
 **#4**
 <br/>Turing machines share their namesake with the Turing test, which has inspired science fiction stories from *Blade Runner* to *I, Robot*. Both are named after the 'father of artificial intelligence', Alan Turing, whom Queen Elizabeth II posthumously pardoned in 2013 - more than half a century after he was prosecuted for homosexual acts and sentenced to chemical castration by the UK government.
+
+**#5**
+<br/>Alan Turing's work on the Halting Problem played a pivotal role in demonstrating the undecidability of mathematics. [This](https://www.youtube.com/watch?v=HeQX2HjkcNo) video discusses Turing's work on undecidability in the context of Kurt Godel's famous incompleteness proof; taken together, they raise profound questions about the nature of logic and reason.
+
+**#6** *-pairs with Problem S1-*
+<br/> This problem was inspired by the [Strachey love letter algorithm](https://en.wikipedia.org/wiki/Strachey_love_letter_algorithm), written in 1952 for the Manchester Mark 1. Its author, Christopher Strachey was a british computer scientist during the mid-20th Century who pioneered the idea of time-sharing. He also developed an early version of checkers for the Manchester Ferranti.
 
 ---------------------
 ---------------------
