@@ -3,19 +3,19 @@
 
 **COMBINATOIRCS**
 
-**C1)**
+**C1**
 <br/>A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
 * Students are allowed to check exactly 1 box under race and 1 box under gender.
 * Students are allowed to check 1 or 2 boxes under race and 1 or 2 under gender.
 * Students are allowed to check as many boxes as they wish (including 0).
 
-**C2)**
+**C2**
 <br/>A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
 
-**C3)**
+**C3**
 <br/>In how many ways can three men, three women, and three non-binary students stand in a circle if no two people of the same gender identity are allowed to stand next to each other?
 
-**C4)**
+**C4**
 <br/>You conduct an experiment in which you interview a large number of families, each of which has 5 children. For each family, you write down the biological sex (M for male, F for female, I for intersex) of the children, in order from oldest to youngest.
 * How many possible results are there?
 * Out of all the possible results, how many have exactly two I’s?
