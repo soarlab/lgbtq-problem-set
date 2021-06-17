@@ -63,12 +63,12 @@
 **GRAPH THEORY**
 
 **G1**
-<br/>Social_Graph.JPG depicts connections in a blockchain network used to trade NFTs. Nodes represent individual users; an edge between two users means that they are contacts on the network. Thus, any walk along this graph represents a possible sequence of transactions for a hypothetical NFT.
+<br/>The graph below depicts connections in a blockchain network used to trade NFTs. Nodes represent individual users; an edge between two users means that they are contacts on the network. Thus, any walk along this graph represents a possible sequence of transactions for a hypothetical NFT.
 * Find a sequence of 5 transactions which involves someone selling the NFT before buying it back from the same person they sold it to.
 * Is the walk you found above a trail? Why or why not?
 * Is the walk you found above a cycle? Why or why not?
 
-<img src="https://user-images.githubusercontent.com/59627709/120771925-fe1b8e00-c4dc-11eb-89c3-9578ebbd7c07.jpg" width="999" height="370">![Social Graph](https://user-)
+<img src="https://user-images.githubusercontent.com/59627709/120771925-fe1b8e00-c4dc-11eb-89c3-9578ebbd7c07.jpg" width="730" height="370">
 
 ---------------------
 **PROBABILITY THEORY**
