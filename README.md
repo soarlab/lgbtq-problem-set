@@ -21,7 +21,7 @@
 * Out of all the possible results, how many have exactly two I’s?
 * Out of all the possible results, how many have at least one I, one F, and two M’s?
 
-**C5)**
+**C5**
 <br/>Jon wants to choose a different three-letter name for herself to better match her pronouns. How many consonant-vowel-consonant options does she have to choose from?
 
 **C6**
