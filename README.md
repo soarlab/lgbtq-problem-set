@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/353823752.svg)](https://zenodo.org/badge/latestdoi/353823752)
+
 # Identity Affirming Problem Set
 *Discrete mathematics problems which affirm and make visible LGBTQ and other minority identities -- Subdivided by Topic Category*
 
