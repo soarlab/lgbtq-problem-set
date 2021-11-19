@@ -1,59 +1,66 @@
 
 [![DOI](https://zenodo.org/badge/353823752.svg)](https://zenodo.org/badge/latestdoi/353823752)
 
-# Identity Affirming Problem Set
-*Discrete mathematics problems which affirm and make visible LGBTQ and other minority identities -- Subdivided by Topic Category*
+# An LGBTQ-Inclusive Problem Set in Discrete Mathematics
 
-**COMBINATOIRCS**
+TOO: AUTHORS
 
-**C1**
+TODO: INTRO AND REF SIGSCE PAPER
+
+TODO: finish formatting other sections
+
+TODO: proofread
+
+## COMBINATORICS
+
+### Problem C1
 <br/> A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
 * Students are allowed to check exactly 1 box under race and 1 box under gender.
 * Students are allowed to check 1 or 2 boxes under race and 1 or 2 under gender.
 * Students are allowed to check as many boxes as they wish (including 0).
 
-**C2**
+### Problem C2
 <br/> A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
 
-**C3**
+### Problem C3
 <br/> In how many ways can three men, three women, and three non-binary students stand in a circle if no two people of the same gender identity are allowed to stand next to each other?
 
-**C4**
+### Problem C4
 <br/> You conduct an experiment in which you interview a large number of families, each of which has 5 children. For each family, you write down the biological sex (M for male, F for female, I for intersex) of the children, in order from oldest to youngest.
 * How many possible results are there?
 * Out of all the possible results, how many have exactly two I’s?
 * Out of all the possible results, how many have at least one I, one F, and two M’s?
 
-**C5**
+### Problem C5
 <br/> Jon wants to choose a different three-letter name for herself to better match her pronouns. How many consonant-vowel-consonant options does she have to choose from?
 
-**C6**
+### Problem C6
 <br/> Consider the set of letters, *{L, G, B, T, Q, I, A}*:
 * How many ways are there to form a string containing exactly one copy of each letter?
 * Suppose all license plates in a certain state consist of three distinct consonants followed by two distinct vowels. How many such license plates can be formed from the given set?
 * Suppose three letters are chosen from this set at random (repeats allowed); what are the odds that at least one of them is a vowel (rounded to four digits)?
 
-**C7**
+### Problem C7
 <br/> Charlie and her girlfriend, Amber, go to lunch at a restaurant with 7 sandwiches on the menu. There are also 5 beverages on the menu. How many possible two-sandwich, two-drink meals can they order (regardless of which of them orders first)...
 * if they order different sandwiches and drinks from each other?
 * if they each order without concern for what the other ordered?
 
-**C8**
+### Problem C8
 <br/> A small civil rights non-profit is selecting 3 of its 15 employees to form a task force focused on voting rights.
 * How many such task forces could they possibly select?
 * How many possibilities are there if they assign each member of the task force a unique role?
 
-**C9**
+### Problem C9
 <br/> 100 people are marching on the capitol to protest racial injustice. They intend to organize themselves into a pentagonal marching pattern, each point of the pentagon consisting of a four-person by five-person rectangular formation.
 * How many ways are there to separate the marchers into five groups?
 * Within each group, how many possible four-by-five formations are there?
 * How many ways are there to arrange five different objects to form a pentagon?
 * Overall, how many possible organizations do the marchers have to choose from?
 
-**C10**
+### Problem C10
 <br/> A group of 12 highschoolers are attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
 
-**C11**
+### Problem C11
 <br/> The organizers of a LGBTQ rally are making pride flags. Five people all choose different flag designs from among ten; how many possible combinations of flags might they end up with?
 
 ---------------------
