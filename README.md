@@ -25,7 +25,7 @@ Trysten Scott Richard - TSRichard95@gmail.com
 This project aims to improve LGBTQ (lesbian, gay, bisexual, trans, and queer) representation in the University of Utah's discrete mathematics course. Many practice problems in the course textbook rely on heteronormative and/or cisnormative premises. We developed alternatives that maintained the original mathematical content while including minority identities, and then deployed them in a homework assignment. Students also completed a survey on their opinions of the new questions. Most students were open to the inclusion of LGBTQ representation in their homework, and many applauded it. However, students also suggested that subtle wording was preferable, and that affirming problems should be sprinkled across the course rather than concentrated in one assignment. Our experience provides an example of framing mathematical content to support an inclusive classroom climate, and we expect that our lessons learned can inform assignments that affirm minority identities throughout the CS curriculum.
 
 ### Important Note
-Some of these problems were developed before we received student feedback and do note fully reflect the guidelines for inclusive pedagogy indicated by our research. These problems have been marked with "!!" immediately before their title (eg, "!! Problem 8") and include a brief discussion of what makes them problematic, so that interested intrusctors can independently evaluate their usefulness.
+Some of these problems were developed before we received student feedback and do note fully reflect the guidelines for inclusive pedagogy indicated by our research. These problems have been marked with "!!" immediately before their title (e.g., "!! Problem 8") and include a brief discussion of what makes them problematic, so that interested instructors can independently evaluate their usefulness.
 
 
 
@@ -78,7 +78,7 @@ A group of students is surveyed about race and gender identity for research purp
 Jon wants to choose a different three-letter name for herself to better match her pronouns. How many consonant-vowel-consonant options does she have to choose from?
 
 #### Problem C5
-A group of 12 highschoolers is attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
+A group of 12 high school students is attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
 
 #### Problem C6
 The organizers of a LGBTQ rally are making pride flags. Five people all choose different flag designs from among ten; how many possible combinations of flags might they end up with?
@@ -86,7 +86,7 @@ The organizers of a LGBTQ rally are making pride flags. Five people all choose d
 ### Formal Proof Problems
 
 #### Problem F1
-Suppose 100 highschoolers attend a queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
+Suppose 100 high school students attend a queer prom. Use the Pigeonhole Principle to prove that at least 9 of them share the same birth month.
 
 ### Graph Theory Problems
 
@@ -99,7 +99,7 @@ The graph below depicts connections in a blockchain network used to trade NFTs. 
 <img src="https://user-images.githubusercontent.com/59627709/120771925-fe1b8e00-c4dc-11eb-89c3-9578ebbd7c07.jpg" width="730" height="370">
 
 #### Problem G2
-Robin has drawn two different family trees (labeled A and B below), both of which represent familial relationships between all seven members of their household. They live with their adoptive parents, Maya and Imani; their auncle, Kai; their grandparents, Carmen and Bo; and their great-grandmother, Ana.
+Robin has drawn two different family trees (labeled A and B below), both of which represent familial relationships between all seven members of their household. They live with their adoptive parents, Maya and Imani; their uncle, Kai; their grandparents, Carmen and Bo; and their great-grandmother, Ana.
 * In tree A, what does a horizontal dashed line represent?
 * In tree B, what does a horizontal solid line represent?
 * In general, what's the difference between solid and dashed lines in these two trees?
@@ -154,7 +154,7 @@ Recent census data has concluded that approximately 1.44% of US couples living t
 ### Set Logic Problems
 
 #### Problem S1 *(pairs with Factoid 6)*
-Imagine you've created an algorithm for automatically writting sappy love letters. Such an algorithm might work (sort of like the game *Mad Libs*) by generating letter templates and replacing blank spaces with words drawn from collections of amorous terminology. For example, consider the template sentence, *S = "My LABEL, you have made me the most ADJECTIVE LABEL in the PLACE."* where *LABEL* is any member of the set *L = {dear, wife, husband, partner}*, *ADJECTIVE* is any member of the set *A = {enamored, overjoyed, fortunate}*, and *PLACE* is any member of the set *P = {world, galaxy, entirety of spacetime}*.
+Imagine you've created an algorithm for automatically writing sappy love letters. Such an algorithm might work (sort of like the game *Mad Libs*) by generating letter templates and replacing blank spaces with words drawn from collections of amorous terminology. For example, consider the template sentence, *S = "My LABEL, you have made me the most ADJECTIVE LABEL in the PLACE."* where *LABEL* is any member of the set *L = {dear, wife, husband, partner}*, *ADJECTIVE* is any member of the set *A = {enamored, overjoyed, fortunate}*, and *PLACE* is any member of the set *P = {world, galaxy, entirety of spacetime}*.
 * How many different possible variations of the given example sentence, *S*, could your algorithm produce?
 * How does your above answer change depending on whether repeated words are allowed?
 
@@ -177,7 +177,7 @@ Turing machines share their namesake with the Turing test, which has inspired sc
 Alan Turing's work on the Halting Problem played a pivotal role in demonstrating the undecidability of mathematics. [This](https://www.youtube.com/watch?v=HeQX2HjkcNo) video discusses Turing's work on undecidability in the context of Kurt Godel's famous incompleteness proof; taken together, they raise profound questions about the nature of logic and reason.
 
 #### Factoid 6 *(pairs with Problem S1)*
-This problem was inspired by the [Strachey love letter algorithm](https://en.wikipedia.org/wiki/Strachey_love_letter_algorithm), written in 1952 for the Manchester Mark 1. Its author, Christopher Strachey was a british computer scientist during the mid-20th Century who pioneered the idea of time-sharing. He also developed an early version of checkers for the Manchester Ferranti.
+This problem was inspired by the [Strachey love letter algorithm](https://en.wikipedia.org/wiki/Strachey_love_letter_algorithm), written in 1952 for the Manchester Mark 1. Its author, Christopher Strachey was a British computer scientist during the mid-20th Century who pioneered the idea of time-sharing. He also developed an early version of checkers for the Manchester Ferranti.
 
 
 ## Class Survey Questions
@@ -243,11 +243,11 @@ What is your age?
 * (SHORT ANSWER)
 
 #### Question 9
-What is your gender identity? (eg: Woman, Transgender, Genderqueer, etc.)
+What is your gender identity? (e.g., Woman, Transgender, Genderqueer, etc.)
 * (SHORT ANSWER)
 
 #### Question 10
-What is your sexual orientation? (eg: Gay, Straight, Asexual, etc.)
+What is your sexual orientation? (e.g., Gay, Straight, Asexual, etc.)
 * (SHORT ANSWER)
 
 #### Question 11
