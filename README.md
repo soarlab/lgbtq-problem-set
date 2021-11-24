@@ -12,7 +12,9 @@ This repository is referenced in the SIGSCE 2022 paper by the same name. Include
 *  the problems used in the experimental homework we deployed,
 *  additional problems we developed,
 *  historical factoids we developed in conjunction with our minority-affirming problems,
-*  and the survey questions we use to assess student reactions to the experimental homework.
+*  and the survey questions we used to assess student reactions to the experimental homework.
+
+Please cite this problem set using the following [DOI](https://zenodo.org/badge/latestdoi/353823752).
 
 ### Authors
 Trysten Scott Richard - TSRichard95@gmail.com
@@ -25,7 +27,6 @@ This project aims to improve LGBTQ (lesbian, gay, bisexual, trans, and queer) re
 ### Important Note
 Some of these problems were developed before we received student feedback and do note fully reflect the guidelines for inclusive pedagogy indicated by our research. These problems have been marked with "!!" immediately before their title (eg, "!! Problem 8") and include a brief discussion of what makes them problematic, so that interested intrusctors can independently evaluate their usefulness.
 
-Please cite this problem set using the following [DOI](https://zenodo.org/badge/latestdoi/353823752).
 
 
 ## Problems Used in Experimental Combinatorics Assignment
