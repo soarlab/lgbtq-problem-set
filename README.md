@@ -42,7 +42,7 @@ A small civil rights non-profit is selecting 3 of its 15 employees to form a tas
 * How many possibilities are there if they assign each member of the task force a unique role?
 
 #### !! Problem 8
-!! *This problem does not leave room for categories of biological sex other than male, female, or broadly intersex.*
+!! *This problem refers to 'biological sex', which at least one student found problematic.*
 </br>You conduct an experiment in which you interview a large number of families, each of which has 5 children. For each family, you write down the biological sex (M for male, F for female, I for intersex) of the children, in order from oldest to youngest.
 * How many possible results are there?
 * Out of all the possible results, how many have exactly two I’s?
@@ -67,7 +67,7 @@ A group of students is surveyed about race and gender identity for research purp
 * Students are allowed to check as many boxes as they wish (including 0).
 
 #### !! Problem C2
-!! *This problem labels people categorically, rather than focusing on what they do (as opposed to what they 'are').*
+!! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
 </br>A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
 
 #### !! Problem C3
