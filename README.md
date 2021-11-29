@@ -71,7 +71,7 @@ A group of students is surveyed about race and gender identity for research purp
 </br>A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
 
 #### !! Problem C3
-!! *This problem labels people categorically, rather than focusing on what they do (as opposed to what they 'are').*
+!! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
 </br>In how many ways can three men, three women, and three non-binary students stand in a circle if no two people of the same gender identity are allowed to stand next to each other?
 
 #### Problem C4
@@ -120,7 +120,7 @@ Three people are on a date together and decide to play an ice-breaking game in w
 Imagine you attend a civil rights rally, looking for a friend who has volunteered their time to the event. You know that they will be at one of the 12 informational booths for half of the event, and another for the rest. If you only manage to visit 6 of the booths (dividing your time at each equally), what are your chances of finding them?
 
 #### !! Problem P3
-!! *This problem labels people categorically, rather than focusing on what they do (as opposed to what they 'are').*
+!! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
 </br>A club of 200 students is forming a committee with 10 members. Given that 15% of club members identify as queer, what are the odds that a randomly selected committee reflects this ratio within a 10% margin?
 
 #### Problem P4
