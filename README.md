@@ -36,10 +36,14 @@ Charlie and her girlfriend, Amber, go to lunch at a restaurant with 7 sandwiches
 * if they order different sandwiches and drinks from each other?
 * if they each order without concern for what the other ordered?
 
-#### Problem 4
+#### Problem 3
 A small civil rights non-profit is selecting 3 of its 15 employees to form a task force focused on voting rights.
 * How many such task forces could they possibly select?
 * How many possibilities are there if they assign each member of the task force a unique role?
+
+#### !! Problem 4
+!! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
+</br>A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
 
 #### !! Problem 8
 !! *This problem refers to 'biological sex', which at least one student found problematic.*
@@ -47,6 +51,12 @@ A small civil rights non-profit is selecting 3 of its 15 employees to form a tas
 * How many possible results are there?
 * Out of all the possible results, how many have exactly two I’s?
 * Out of all the possible results, how many have at least one I, one F, and two M’s?
+
+#### Problem 9
+A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
+* Students are allowed to check exactly 1 box under race and 1 box under gender.
+* Students are allowed to check 1 or 2 boxes under race and 1 or 2 under gender.
+* Students are allowed to check as many boxes as they wish (including 0).
 
 #### !! Problem 12
 !! *This problem setup lacks substance and would likely be perceived as on-the-nose by students.*
@@ -60,27 +70,17 @@ A small civil rights non-profit is selecting 3 of its 15 employees to form a tas
 
 ### Combinatorics Problems
 
-#### Problem C1
-A group of students is surveyed about race and gender identity for research purposes. The survey lists 6 categories for race and 4 categories for gender. Determine how many different survey results are possible, given each of the following constraints:
-* Students are allowed to check exactly 1 box under race and 1 box under gender.
-* Students are allowed to check 1 or 2 boxes under race and 1 or 2 under gender.
-* Students are allowed to check as many boxes as they wish (including 0).
-
-#### !! Problem C2
-!! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
-</br>A student club focused on diversity is forming a recruitment committee consisting of 7 of its 30 members. 10 of the club’s members identify as gay and 5 identify as asexual. How many ways are there to form a recruitment committee which includes at least three members from each of these groups?
-
-#### !! Problem C3
+#### !! Problem C1
 !! *This problem labels people (as the only way of describing them). A better description would focus on their actions or interests.*
 </br>In how many ways can three men, three women, and three non-binary students stand in a circle if no two people of the same gender identity are allowed to stand next to each other?
 
-#### Problem C4
+#### Problem C2
 Jon wants to choose a different three-letter name for herself to better match her pronouns. How many consonant-vowel-consonant options does she have to choose from?
 
-#### Problem C5
+#### Problem C3
 A group of 12 high school students is attending queer prom together. If they want to arrange themselves into 6 couples, how many possible couple arrangements can they choose from?
 
-#### Problem C6
+#### Problem C4
 The organizers of a LGBTQ rally are making pride flags. Five people all choose different flag designs from among ten; how many possible combinations of flags might they end up with?
 
 ### Formal Proof Problems
