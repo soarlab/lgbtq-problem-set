@@ -8,7 +8,7 @@
 # An LGBTQ-Inclusive Problem Set in Discrete Mathematics
 
 ## About
-This repository is referenced in the SIGSCE 2022 paper by the same name. Included here, in order, are:
+This repository is referenced in our SIGSCE 2022 paper by the same name. Included here, in order, are:
 *  the problems used in the experimental homework we deployed,
 *  additional problems we developed,
 *  historical factoids we developed in conjunction with our minority-affirming problems,
