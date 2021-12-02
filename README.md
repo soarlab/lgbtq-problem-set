@@ -29,7 +29,7 @@ Some of these problems were developed before we received student feedback and do
 
 
 
-## Problems Used in Experimental Combinatorics Assignment
+## Problems Used in the Inclusive Combinatorics Assignment
 
 #### Problem 2
 Charlie and her girlfriend, Amber, go to lunch at a restaurant with 7 sandwiches on the menu. There are also 5 beverages on the menu. How many possible two-sandwich, two-drink meals can they order (regardless of which of them orders first)...
